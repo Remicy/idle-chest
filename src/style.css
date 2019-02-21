@@ -1,0 +1,26 @@
+.game {
+  display: block;
+  margin: auto;
+  margin-top: 1em;
+  font-family: Microsoft JhengHei;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  width: 300px;
+}
+.progress {
+  height: 40px;
+  font-family: Microsoft JhengHei;
+  font-weight: bold;
+  font-size: 20px;
+}
+.skills {
+  margin-left: -19em;
+  padding: 1em;
+  display: flex;
+  width: 1000px;
+}
+
+.skill {
+  padding: 20em;
+}
